@@ -1,10 +1,8 @@
 <!-- Typing Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="animated gradient"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B,FFD93D,6BCB77&center=true&vCenter=true&width=500&lines=Hi+there!+Welcome+to+my+Profile!"/>
+</h1>
 
-# Hi, I'm Sheetal Sharma 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+there!+Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ---
 
