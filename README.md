@@ -1,5 +1,10 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Sheetal+Sharma;Welcome+to+my+GitHub+Profile!;Learning%2C+Building%2C+Growing+every+day+🚀)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="animated gradient"/>
+</p>
+
+# Hi, I'm Sheetal Sharma 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+there!+Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ---
 
@@ -17,5 +22,6 @@
 ---
 
 <p align="center">
-  🌸 Thanks for stopping by — have a great day! 🌸
+  🌸 Welcome to my GitHub profile! 🌸
 </p>
+
