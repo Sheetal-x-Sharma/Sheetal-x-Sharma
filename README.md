@@ -1,7 +1,6 @@
 <!-- Typing Animation -->
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=Hi+there!+Welcome+to+my+Profile!"/>
-
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B,FFD93D,6BCB77&center=true&vCenter=true&width=500&lines=Hi+there!+Welcome+to+my+Profile!"/>
 </h1>
 
 
