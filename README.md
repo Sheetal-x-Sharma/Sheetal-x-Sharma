@@ -1,7 +1,7 @@
-<!-- Hero Section with Animation -->
+<!-- 🌟 Hero Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=Hey+there!+👋;Welcome+to+my+Digital+Playground!;I’m+a+Developer,+Dreamer,+and+Doer.">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F8D210,FA26A0,66DE93&center=true&vCenter=true&width=600&lines=Hey+there!+👋;Welcome+to+my+Creative+Corner!;Building+Ideas+%7C+Breaking+Limits+%7C+Learning+Everyday.">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
@@ -10,37 +10,50 @@
 ---
 
 ### 🌸 About Me  
-💻 **Developer by curiosity** — I build what I imagine.  
-🌱 Always learning, from pixels to production.  
-🚀 Turning coffee ☕ into clean commits and creative code.  
-🎯 Focused on progress, not perfection.  
-💬 Let’s connect, collaborate, and create something awesome!
+🧠 **Curious Mind. Creative Soul.**  
+💻 I love turning ideas into elegant digital experiences.  
+🌱 Learning something new every day — from code to creativity.  
+⚡ Fueled by caffeine, curiosity, and clean design.  
+🎨 Believer in art, logic, and the magic between them.  
 
 ---
 
-### ✨ Quote I Live By  
+### 🌈 My Creative Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,tailwind,git,figma,vscode&theme=dark" />
+</p>
+
+> *“Technology is the canvas. Imagination is the brush.”*
+
+---
+
+### 💫 Aesthetics Meet Code  
+<div align="center">
+
+🎧 Coding with a cup of coffee ☕  
+✨ Designing what I can’t describe in words 🎨  
+🪄 Turning bugs into features since forever 🐞  
+
+</div>
+
+---
+
+### 🌠 Vision & Values  
+- 🌍 **Build with Purpose** — create things that matter.  
+- 🧩 **Design for People** — intuitive > complex.  
+- 🚀 **Grow Every Day** — learn, adapt, and share.  
+- 💬 **Connect Authentically** — code is better when shared.  
+
+---
+
+### 💭 Quote I Live By  
 > “The best way to predict the future is to create it.” — *Peter Drucker*  
 
 ---
 
-### 🛠️ Tech Snapshot  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode&theme=dark" />
-</p>
-
----
-
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=8" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
   <br/>
-  ✨ “Code. Create. Repeat.” ✨
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=500&lines=✨+Create.+Code.+Connect.+Repeat.+✨" />
+  <br/>
+</div>
