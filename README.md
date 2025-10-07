@@ -1,48 +1,45 @@
-<!-- 🌟 Hero Section -->
-<div align="center">
+<!-- 🖤 Full Black Themed GitHub README -->
+<div align="center" style="background-color:#000000; color:#FFFFFF; padding:40px; border-radius:20px;">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F8D210,FA26A0,66DE93&center=true&vCenter=true&width=600&lines=Hey+there!+👋;Welcome+to+my+Creative+Corner!;Building+Ideas+%7C+Breaking+Limits+%7C+Learning+Everyday.">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-</div>
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF,F8D210,FA26A0,66DE93&center=true&vCenter=true&width=650&lines=Hey+there!+👋;Welcome+to+my+Dark+Digital+Realm!;I+Code,+Design,+and+Dream+in+Color.">
+<br>
 
 ---
 
-### 🌸 About Me  
+### 🌙 About Me  
 🧠 **Curious Mind. Creative Soul.**  
-💻 I love turning ideas into elegant digital experiences.  
-🌱 Learning something new every day — from code to creativity.  
-⚡ Fueled by caffeine, curiosity, and clean design.  
-🎨 Believer in art, logic, and the magic between them.  
+💻 Turning caffeine ☕ and curiosity into clean, expressive code.  
+🎨 Design meets logic — I love crafting visual stories with technology.  
+⚡ Passionate about user experiences that *feel alive.*  
+🌱 Forever learning, forever evolving.  
 
 ---
 
-### 🌈 My Creative Stack  
+### 💫 My Creative Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,tailwind,git,figma,vscode&theme=dark" />
 </p>
 
-> *“Technology is the canvas. Imagination is the brush.”*
+> <span style="color:#66DE93">“Technology is the canvas. Imagination is the brush.”</span>
 
 ---
 
-### 💫 Aesthetics Meet Code  
-<div align="center">
-
-🎧 Coding with a cup of coffee ☕  
-✨ Designing what I can’t describe in words 🎨  
-🪄 Turning bugs into features since forever 🐞  
-
+### 🪄 My Vibe  
+<div align="center" style="font-size:16px; line-height:1.8;">
+🎧 Late-night coding with lo-fi beats  
+💡 Designing what I can’t describe in words  
+🪶 Writing clean, expressive, and human-readable code  
+🔥 Breaking things, fixing them better  
 </div>
 
 ---
 
 ### 🌠 Vision & Values  
-- 🌍 **Build with Purpose** — create things that matter.  
-- 🧩 **Design for People** — intuitive > complex.  
-- 🚀 **Grow Every Day** — learn, adapt, and share.  
-- 💬 **Connect Authentically** — code is better when shared.  
+- 🌍 **Build with Purpose** — meaningful > viral.  
+- ✨ **Design for Emotion** — beauty in simplicity.  
+- 🚀 **Learn Relentlessly** — curiosity fuels progress.  
+- 💬 **Collaborate Authentically** — code is a conversation.  
 
 ---
 
@@ -51,9 +48,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=500&lines=✨+Create.+Code.+Connect.+Repeat.+✨" />
-  <br/>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=500&lines=✨+Create.+Code.+Connect.+Repeat.+✨" />
+
 </div>
